@@ -37,5 +37,3 @@ const rest = new REST().setToken(token);
 		console.error(error);
 	}
 })();
-
-// if u want register yours commands run - "node deploy-commands.js" (ctrl + `)
