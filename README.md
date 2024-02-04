@@ -21,3 +21,5 @@ thats all for now.
 ## Questions and Issues
 
 Check GitHub Issues page of this project. If your problem is not there, please contact me via [discord](https://discord.gg/f9EtgThamC)
+
+![image](https://github.com/i120ms/nevermind/assets/151391534/32fde3a7-e64d-413a-950c-fe50b959e24f)
