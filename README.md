@@ -1,6 +1,6 @@
 # nevermind
 
-v0.0.1
+v0.0.2
 
 ## Description
 
@@ -15,6 +15,8 @@ It's my after-school project based on discord.js. I've done it for fun and my pr
 ```/server``` - gives information about server on which it is
 
 ```/user``` - gives information about the user who will use the command
+
+```/sleep``` - answer "Dobranoc :v" (ang. Goodnight :v)
 
 thats all for now.
 
