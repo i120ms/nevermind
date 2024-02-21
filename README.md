@@ -18,8 +18,6 @@ It's my after-school project based on discord.js. I've done it for fun and my pr
 
 ```/sleep``` - answer "Dobranoc :v" (ang. Goodnight :v)
 
-thats all for now.
-
 ## Questions and Issues
 
 Check GitHub Issues page of this project. If your problem is not there, please contact me via [discord](https://discord.gg/f9EtgThamC)
