@@ -6,8 +6,6 @@ v0.1.1
 
 It's my after-school project based on discord.js. I've done it for fun and my programming experience. I hope u like it :v. 
 
-## [Invite](https://discord.com/api/oauth2/authorize?client_id=1193641042344431807&permissions=8&scope=bot)
-
 ## Commands
 
 ```/ping``` - answer "Pong!"
