@@ -1,6 +1,6 @@
 # nevermind
 
-v0.1.1
+v0.1
 
 ## Description
 
@@ -8,13 +8,13 @@ It's my after-school project based on discord.js. I've done it for fun and my pr
 
 ## Commands
 
-```/ping``` - answer "Pong!"
+- ```/ping``` - answer "Pong!"
 
-```/server``` - gives information about server on which it is
+- ```/server``` - gives information about server on which it is
 
-```/user``` - gives information about the user who will use the command
+- ```/user``` - gives information about the user who will use the command
 
-```/sleep``` - answer "Dobranoc :v" (ang. Goodnight :v)
+- ```/sleep``` - answer "Dobranoc :v" (ang. Goodnight :v)
 
 ## Questions and Issues
 
